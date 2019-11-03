@@ -1,6 +1,0 @@
-esta es una historia demo
-mi edad es de 42 años
-
-mi compañia es de desarrollo 
-donde no hay nuevas cosas en relacion a Git
-
